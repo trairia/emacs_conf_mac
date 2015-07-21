@@ -5,3 +5,4 @@
 (depends-on "init-loader")
 (depends-on "magit")
 
+(depends-on "helm")
